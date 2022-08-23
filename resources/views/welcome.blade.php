@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel nuovo titolo pallino</title>
+        <h1>prova prova ciucca prova</h1>
 
 
         <!-- Fonts -->
