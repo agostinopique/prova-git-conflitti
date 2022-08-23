@@ -85,7 +85,7 @@
                     Laravel
                 </div>
                 <div>
-                    <h2>Ciao ciao!</h2>
+                    <h3>Ciao ragazzacci</h3>
                     <p>Questo é la riga di agostino!</p>
                 </div>
                 <div class="links">
