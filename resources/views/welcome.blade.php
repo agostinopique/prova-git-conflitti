@@ -85,7 +85,7 @@
                 </div>
                 <div>
                     <h2>Ciao ciao!</h2>
-                    <p>Questo é la riga di agostino!</p>
+                    <p>Questo é la nuova riga di agostino!</p>
                 </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
