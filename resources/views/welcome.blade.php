@@ -6,6 +6,7 @@
 
         <title>Laravel nuovo titolo pallino</title>
         <h1>prova prova ciucca prova</h1>
+        <h1>卐 卐 卐 卐 卐 </h1>
 
 
         <!-- Fonts -->
