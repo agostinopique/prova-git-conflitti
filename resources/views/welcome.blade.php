@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel nuovo titolo</title>
+        <title>Laravel nuovo titolo pallino</title>
+
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
@@ -84,8 +85,8 @@
                     Laravel
                 </div>
                 <div>
-                    <h2>Ciao ciao!</h2>
-                    <p>Questo é la nuova riga di agostino!</p>
+                    <h3>Ciao ragazzacci</h3>
+                    <p>Questo é la riga di agostino!</p>
                 </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
