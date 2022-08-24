@@ -7,6 +7,7 @@
         <title>Laravel nuovo titolo pallino</title>
         <h1>prova prova ciucca prova</h1>
         <h1>卐 卐 卐 卐 卐 </h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, corporis? Dolore, architecto! Ut itaque consequuntur aliquam expedita qui nostrum odit architecto vitae, quo perferendis magni ipsam dolorum inventore, vero ipsa. ciucca ciucca ciucca</p>
 
 
         <!-- Fonts -->
