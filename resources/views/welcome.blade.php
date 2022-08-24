@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel nuovo titolo pallino</title>
+        <title>Laravel nuovo titolo</title>
         <h1>prova prova ciucca prova</h1>
         <h1>卐 卐 卐 卐 卐 </h1>
 
