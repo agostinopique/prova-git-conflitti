@@ -90,6 +90,7 @@
                 <div>
                     <h3>Ciao ragazzacci</h3>
                     <p>Questo é la riga di agostino!</p>
+                    <p>Questo é la riga di davide!</p>
                 </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
