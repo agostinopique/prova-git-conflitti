@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel nuovo titolo</title>
+        <title>Laravel nuovo titolo Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit veritatis explicabo nostrum repellendus soluta veniam sit rerum consequatur libero ipsam repellat eius illo, neque perferendis facilis, cum reiciendis, cumque molestiae.</title>
         <h1>prova prova ciucca prova</h1>
         <h1>卐 卐 卐 卐 卐 </h1>
 
